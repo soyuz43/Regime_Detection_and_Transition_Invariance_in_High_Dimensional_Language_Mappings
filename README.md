@@ -25,7 +25,7 @@ If you use this methodology, protocol, or code in your research or product, plea
 @misc{stetar2024regimedetection,
   title = {Regime Detection and Transition Invariance in High-Dimensional Language Mappings},
   author = {Stetar, William R.},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
   howpublished = {\url{https://github.com/soyuz43/Regime_Detection_and_Transition_Invariance_in_High_Dimensional_Language_Mappings}},
@@ -35,7 +35,7 @@ If you use this methodology, protocol, or code in your research or product, plea
 
 ### APA Style
 
-Stetar, W. R. (2024). *Regime Detection and Transition Invariance in High-Dimensional Language Mappings* [Computer software]. GitHub. https://github.com/soyuz43/Regime_Detection_and_Transition_Invariance_in_High_Dimensional_Language_Mappings
+Stetar, W. R. (2026). *Regime Detection and Transition Invariance in High-Dimensional Language Mappings* [Computer software]. GitHub. https://github.com/soyuz43/Regime_Detection_and_Transition_Invariance_in_High_Dimensional_Language_Mappings
 
 ## License
 
